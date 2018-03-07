@@ -1,0 +1,5 @@
+﻿{"kurslar":[
+    { "kursAdi":"Android ile Programlama Geliştirme", "saat":"150", "kontenjan":"20" },
+    { "kursAdi":"Web Programlama Geliştirme", "saat":"120", "kontenjan":"30" },
+    { "kursAdi":"IOS ile Programlama Geliştirme", "saat":"160", "kontenjan":"18" }
+]}
