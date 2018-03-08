@@ -7,5 +7,23 @@
    "kanalUrl": "asdf",
    "kanalAciklama": "asdfg",
    "kanalDil": "turkce"
+   },
+   {
+   "kanalId": 2,
+   "kanalKategoriId": "1",
+   "kanalAdi": "star tv",
+   "kanalResim": "sddfh sgfhgjh uoıpog iy tuy rtyyu dyuykı",
+   "kanalUrl": "asdf",
+   "kanalAciklama": "asdfg",
+   "kanalDil": "turkce"
+   },
+   {
+   "kanalId": 2,
+   "kanalKategoriId": "1",
+   "kanalAdi": "show tv",
+   "kanalResim": "sddfh sgfhgjh uoıpog iy tuy rtyyu dyuykı",
+   "kanalUrl": "asdf",
+   "kanalAciklama": "asdfg",
+   "kanalDil": "turkce"
    }
 ]}
