@@ -1,7 +1,7 @@
 ﻿{"kanallar": [
    {
    "kanalId": 1,
-   "kanalKategoriId": 1,
+   "kanalKategoriId": "1",
    "kanalAdi": "trt",
    "kanalResim": "asd",
    "kanalUrl": "asdf",
@@ -10,7 +10,7 @@
    }
    {
    "kanalId": 4,
-   "kanalKategoriId": 2,
+   "kanalKategoriId": "2",
    "kanalAdi": "tv 5",
    "kanalResim": "asd",
    "kanalUrl": "asdf",
