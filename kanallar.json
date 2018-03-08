@@ -8,4 +8,31 @@
    "kanalAciklama": "asdfg",
    "kanalDil": "turkce"
    }
+    {
+   "kanalId": 2,
+   "kanalKategoriId": 2,
+   "kanalAdi": "star tv",
+   "kanalResim": "asd",
+   "kanalUrl": "asdf",
+   "kanalAciklama": "merhaba star tv canlı yayın akışına hoşgeldiniz...merhaba star tv canlı yayın akışına hoşgeldiniz...merhaba star tv canlı yayın akışına hoşgeldiniz...",
+   "kanalDil": "turkce"
+   }
+    {
+   "kanalId": 3,
+   "kanalKategoriId": 1,
+   "kanalAdi": "atv",
+   "kanalResim": "asd",
+   "kanalUrl": "asdf",
+   "kanalAciklama": "sdfg sdh j ııulpu opouyyyyyydt yjykyyyyyyyu klyyygfj ukutkıkkftj",
+   "kanalDil": "turkce"
+   }
+    {
+   "kanalId": 4,
+   "kanalKategoriId": 2,
+   "kanalAdi": "tv 5",
+   "kanalResim": "asd",
+   "kanalUrl": "asdf",
+   "kanalAciklama": "asdfg",
+   "kanalDil": "turkce"
+   }
 ]}
