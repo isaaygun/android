@@ -1,7 +1,7 @@
 ﻿{"kanallar": [
    {
-   "kanalId": "1",
-   "kanalKategoriId": "1",
+   "kanalId": 1,
+   "kanalKategoriId": 1,
    "kanalAdi": "trt",
    "kanalResim": "asd",
    "kanalUrl": "asdf",
